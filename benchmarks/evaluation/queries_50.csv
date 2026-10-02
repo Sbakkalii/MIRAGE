@@ -1,0 +1,51 @@
+id,category,lang,query
+q01,entity,fr,Qui est Antoine Meillet ?
+q02,entity,fr,Qui était Paul Valéry ?
+q03,entity,fr,Quel fut le rôle de Marie Curie dans la découverte de la radioactivité ?
+q04,entity,fr,Qui est Jean-François Champollion ?
+q05,entity,fr,Qui était Georges Clemenceau ?
+q06,entity,fr,Qui est Louis Pasteur ?
+q07,entity,fr,Qui était Victor Hugo ?
+q08,entity,fr,Qui était Jean Jaurès ?
+q09,entity,fr,Qui était Napoléon Bonaparte ?
+q10,entity,fr,Qui est Averroès ?
+q11,entity,en,Who was Abraham Lincoln?
+q12,entity,en,Who was Winston Churchill?
+q13,entity,en,Who was Marie Curie?
+q14,entity,en,Who was Charles Darwin?
+q15,entity,en,Who was Isaac Newton?
+q16,entity,en,Who was Leonardo da Vinci?
+q17,entity,en,Who was Alan Turing?
+q18,entity,en,Who was Nelson Mandela?
+q19,entity,en,Who was Albert Einstein?
+q20,entity,en,Who was Florence Nightingale?
+q21,event,fr,Quelles ont été les conséquences majeures de la Première Guerre mondiale en Europe ?
+q22,event,fr,Quelles ont été les causes de la Révolution française ?
+q23,event,fr,Comment la Seconde Guerre mondiale a-t-elle commencé ?
+q24,event,fr,Quels ont été les facteurs de la chute de l'Empire romain ?
+q25,event,fr,Quelles ont été les conséquences de la chute de Constantinople ?
+q26,event,fr,Quelles ont été les principales croisades médiévales ?
+q27,event,fr,Comment s'est déroulée la guerre d'indépendance des États-Unis ?
+q28,event,fr,Quels événements ont marqué la décolonisation de l'Afrique ?
+q29,event,fr,Quel a été l'impact de la peste noire en Europe ?
+q30,event,fr,Comment la Réforme protestante a-t-elle commencé ?
+q31,event,en,What were the primary reasons for the start of the American Civil War?
+q32,event,en,What caused the First World War?
+q33,event,en,What were the consequences of the fall of the Roman Empire?
+q34,event,en,How did the French Revolution begin?
+q35,event,en,What triggered the Protestant Reformation?
+q36,event,en,What were the main causes of the Great Depression?
+q37,event,en,How did the Berlin Wall fall?
+q38,event,en,What led to the end of apartheid in South Africa?
+q39,event,en,What were the consequences of the Black Death in Europe?
+q40,event,en,How did the October Revolution of 1917 start?
+q41,unanswerable,fr,Expliquez en détail comment les voyages interstellaires des Romains ont influencé l'architecture des temples égyptiens
+q42,unanswerable,fr,Comment les chevaliers médiévaux ont-ils utilisé Internet pour organiser les tournois ?
+q43,unanswerable,fr,Comment les pharaons ont-ils financé la construction du chemin de fer transsibérien ?
+q44,unanswerable,fr,Dans quelle mesure la guerre de Troie a-t-elle influencé la politique monétaire de la Banque centrale européenne ?
+q45,unanswerable,fr,Quels ont été les apports de Marie Curie au développement des réseaux sociaux ?
+q46,unanswerable,en,How did interstellar Roman trade routes shape modern cryptocurrency markets?
+q47,unanswerable,en,What role did the pyramids of Giza play in the first moon landing in 1969?
+q48,unanswerable,en,How did Napoleon's military strategies influence the invention of the smartphone?
+q49,unanswerable,en,What impact did the signing of the Magna Carta have on the development of the internet?
+q50,unanswerable,en,How did Cleopatra's policies shape today's global satellite networks?

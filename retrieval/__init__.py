@@ -1,0 +1,1 @@
+from .retrieval import multi_query_fusion

@@ -1,0 +1,77 @@
+{
+  "overall": {
+    "n": 50,
+    "faithfulness": {
+      "mean": 0.3535,
+      "sd": 0.3432
+    },
+    "answer_relevancy": {
+      "mean": 0.3703,
+      "sd": 0.4296
+    }
+  },
+  "by_category": {
+    "entity": {
+      "n": 20,
+      "faithfulness": {
+        "mean": 0.4276,
+        "sd": 0.3581
+      },
+      "answer_relevancy": {
+        "mean": 0.5446,
+        "sd": 0.4231
+      }
+    },
+    "event": {
+      "n": 20,
+      "faithfulness": {
+        "mean": 0.406,
+        "sd": 0.3347
+      },
+      "answer_relevancy": {
+        "mean": 0.3813,
+        "sd": 0.4389
+      }
+    },
+    "unanswerable": {
+      "n": 10,
+      "faithfulness": {
+        "mean": 0.1,
+        "sd": 0.2108
+      },
+      "answer_relevancy": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    }
+  },
+  "by_lang": {
+    "en": {
+      "n": 25,
+      "faithfulness": {
+        "mean": 0.3511,
+        "sd": 0.3479
+      },
+      "answer_relevancy": {
+        "mean": 0.3371,
+        "sd": 0.4229
+      }
+    },
+    "fr": {
+      "n": 25,
+      "faithfulness": {
+        "mean": 0.3558,
+        "sd": 0.3457
+      },
+      "answer_relevancy": {
+        "mean": 0.4035,
+        "sd": 0.4423
+      }
+    }
+  },
+  "judge": "https://api.deepseek.com",
+  "judge_model": "deepseek-v4-flash",
+  "embed_model": "qwen3-embedding:4b",
+  "embed_base": "http://127.0.0.1:11434/v1",
+  "timestamp": "2026-09-29T14:53:35+02:00"
+}
