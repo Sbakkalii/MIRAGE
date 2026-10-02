@@ -1,4 +1,7 @@
-# Multilingual RAG over Temporally Diverse Text Corpora
+# MIRAGE — Multilingual RAG over Temporally Diverse Text Corpora
+
+**MIRAGE** = **M**ultilingual **I**nformation **R**etrieval-**A**ugmented **G**eneration with
+**E**vidence grounding.
 
 Code, results and manuscript source for an empirical study of multilingual
 Retrieval-Augmented Generation (RAG) over temporally layered corpora — the French
